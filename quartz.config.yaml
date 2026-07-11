@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: localhost
+  baseUrl: justnam.github.io/student-materials
   ignorePatterns:
     - private
     - templates
