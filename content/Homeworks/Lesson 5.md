@@ -53,3 +53,8 @@ Now seed some data so you have something to work with.
 **The problem:** Users want to highlight key quotes from interviews and tag them with a theme (e.g. "pain point", "motivation", "workaround"). These highlights don't fit anywhere in the current schema.
 
 **Reflect:** What makes this different from Iteration 1? When do you add a column vs. create a whole new table?
+
+## Reference
+
+- [W3Schools SQL Tutorial](https://www.w3schools.com/sql/)
+- [GeeksforGeeks SQL Tutorial](https://www.geeksforgeeks.org/sql-tutorial/)
