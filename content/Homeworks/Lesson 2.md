@@ -35,7 +35,7 @@
 ## IV. Preparation
 
 1. Clone the git (via Claude Code): https://github.com/JustNam/lesson2-homework
-2. `cd lesson2-homework` — **start Claude Code from inside this folder**, not the parent
+2. `cd lesson2-homework` (**start Claude Code from inside this folder**, not the parent)
 3. Read README and run the server
 4. Turn off the auto-completion on VS code
 5. Read the sample: `pages/sample.js`
