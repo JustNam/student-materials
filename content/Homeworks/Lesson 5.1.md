@@ -46,11 +46,25 @@ Now seed some data so you have something to work with.
 
 **The problem:** Users want to track the status of each interview (*planned*, *completed*, or *cancelled*). Right now the database has no way to store this.
 
+**SQL Submission:**
+
+1. The SQL you used to change the database
+2. The SQL you used to update existing rows
+3. Show all interviews that are still *planned*, with their plan name
+4. Show the most recently created interview
+
 **Reflect:** Why did you modify the existing table rather than drop and recreate it? What would have happened to your data if you had?
 
 ### 4. Iteration 2: A User Problem That Requires a New Table
 
 **The problem:** Users want to highlight key quotes from interviews and tag them with a theme (e.g. "pain point", "motivation", "workaround"). These highlights don't fit anywhere in the current schema.
+
+**SQL Submission:**
+
+1. The SQL you used to create the new table
+2. The SQL you used to populate it
+3. Show all highlights tagged as *pain point*, with the interviewee name who said them
+4. How many highlights are there per theme?
 
 **Reflect:** What makes this different from Iteration 1? When do you add a column vs. create a whole new table?
 
