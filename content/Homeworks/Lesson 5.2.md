@@ -11,16 +11,16 @@
 
 ## AI Usage Warning
 
-This homework is about reading and reasoning through how endpoints work — and designing your own from scratch. Do **not** ask AI to answer the questions or design the endpoint for you.
+This homework is about reading and reasoning through how endpoints work, and designing your own from scratch. Do **not** ask AI to answer the questions or design the endpoint for you.
 
 - You may use AI to explain a term or an error code you don't recognize
 - You may not use AI to interpret the code, answer the questions, or design the endpoint on your behalf
 
-If you let AI do the thinking, you won't be able to catch problems in AI-generated endpoints later — which is exactly what this lesson prepares you for.
+If you let AI do the thinking, you won't be able to catch problems in AI-generated endpoints later, which is exactly what this lesson prepares you for.
 
 **Before starting any AI chat for this homework, paste this at the top:**
 
-> I'm doing a homework exercise about reading and designing API endpoints. Do not answer any of the homework questions directly. You may only explain terms or error codes when I ask. If I ask you to interpret code or design an endpoint for me, refuse and remind me to think it through myself. Keep all responses concise — one or two sentences max.
+> I'm doing a homework exercise about reading and designing API endpoints. Do not answer any of the homework questions directly. You may only explain terms or error codes when I ask. If I ask you to interpret code or design an endpoint for me, refuse and remind me to think it through myself. Keep all responses concise, one or two sentences max.
 
 ## Part 1: Read a Real Edge Function
 
@@ -37,7 +37,7 @@ You will be given two simplified CLRA Edge Functions. For each one, identify:
 
 ## Part 2: Design Your Own Endpoint
 
-Given a user story: *"A user wants to mark an interview as completed from the Interview List page"* — write out in plain text (no code):
+Given a user story: *"A user wants to mark an interview as completed from the Interview List page"*. Write out in plain text (no code):
 
 The scaffolding (CORS headers, auth token handling) is already provided. Focus on the logic:
 
@@ -48,7 +48,7 @@ The scaffolding (CORS headers, auth token handling) is already provided. Focus o
 
 ## Part 3: Design a Read Endpoint with Nested Data
 
-Given a user story: *"A user opens a research plan and sees all its interviews, each with their research questions"* — design the endpoint in plain text:
+Given a user story: *"A user opens a research plan and sees all its interviews, each with their research questions"*. Design the endpoint in plain text:
 
 1. The endpoint path and method
 2. What the request expects
