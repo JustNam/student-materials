@@ -31,9 +31,9 @@ You will be given two simplified CLRA Edge Functions. For each one, identify:
 3. What does it return on success?
 4. What HTTP error would fire if a required input is missing?
 
-**[[Examples/A|Example A]]:** `PATCH /interviews/:id` — update an interview's status
+[[Examples/A|Example A]]
 
-**[[Examples/B|Example B]]:** `GET /research-questions/:id` — fetch a research question with its nested interview questions
+[[Examples/B|Example B]]
 
 ## Part 2: Design Your Own Endpoint
 
