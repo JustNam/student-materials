@@ -8,7 +8,7 @@ title: Lesson 2 - UI Elements
 MUI element categories, the Research Plan feature, HTML vs JSX, state
 
 ### Homework
-- [[Homework]]
+- [[Lesson 2 - UI Elements/Homework|Homework]]
 
 ### Self-learn Topics
 - MUI "underground artists": ListItemSecondaryAction, TablePagination, disableEscapeKeyDown, Collapse, TransitionGroup, Skeleton, Backdrop

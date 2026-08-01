@@ -8,7 +8,7 @@ title: Lesson 1 - Course Worldview
 Course outcomes, myths worth breaking, learning principles, the solution space, form-context fit, CLRA case study
 
 ### Homework
-- [[Homework]]
+- [[Lesson 1 - Course Worldview/Homework|Homework]]
 
 ### Self-learn Topics
 - [[Why Understanding the Basics Still Matters]]
