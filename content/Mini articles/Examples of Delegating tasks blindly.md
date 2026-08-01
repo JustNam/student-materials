@@ -1,4 +1,4 @@
-1. A very simple promt requests AI to refresh the page after switching workspace
+1. A very simple prompt requests AI to refresh the page after switching workspace.
 
 ```tsx
   const handleSelectWorkspace = (workspace: IWorkspaceModel) => {
@@ -12,5 +12,5 @@
   };
 ```
 
-1. In most cases, there is an `if` to check if the variable exists before using it
-2. But in this case, users can only use `handleSelectWorkspace` when window is loaded completely, `if` claude is totally unnecessary
+1. In most cases, there is an `if` to check if the variable exists before using it.
+2. But in this case, users can only use `handleSelectWorkspace` when the window is loaded completely, so the `if` clause is totally unnecessary.
