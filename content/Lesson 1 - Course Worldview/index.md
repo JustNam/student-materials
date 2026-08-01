@@ -11,8 +11,7 @@ Course outcomes, myths worth breaking, learning principles, the solution space, 
 - [[Lesson 1 - Course Worldview/Homework|Homework]]
 
 ### Self-learn Topics
-- [[Why Understanding the Basics Still Matters]]
-- [[Examples of Delegating tasks blindly]]
+_none_
 
 ### References
 - Slide URL: [Lesson 1 - Course Worldview](https://docs.google.com/presentation/d/1wDJl4fqYvcRarMOp1PUcBGgvFPQZLaFLUa0_QG50izs/edit)

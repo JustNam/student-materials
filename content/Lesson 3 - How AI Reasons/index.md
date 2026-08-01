@@ -11,8 +11,7 @@ How LLMs work, how agents work, Claude Code, version control as a safety net, ca
 - [[Lesson 3 - How AI Reasons/Homework|Homework]]
 
 ### Self-learn Topics
-- superpowers skills collection: brainstorming, planning, TDD workflows
-- MCP playwright: letting an agent see and drive the browser
+_none_
 
 ### References
 - Slide URL: [Lesson 3 - How AI Reasons](https://docs.google.com/presentation/d/1AXHy2jLY0Li_sOjHm8VThbAjbYsuNwMg6U0AzABdnkQ/edit)

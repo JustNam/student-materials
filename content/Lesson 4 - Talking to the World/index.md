@@ -11,7 +11,7 @@ Props, side effects, useEffect, loading and error states, the dependency array
 - [[Lesson 4 - Talking to the World/Homework|Homework]]
 
 ### Self-learn Topics
-- MUI loading/error components: CircularProgress, Skeleton, Alert
+_none_
 
 ### References
 - Slide URL: [Lesson 4 - Talking to the World](https://docs.google.com/presentation/d/1yW3jFjtPOIIM87oNPIl3U13vajzbEXgj5Qchd0XQtfQ/edit)
