@@ -17,7 +17,3 @@ Welcome to the course materials hub. Use the explorer on the left to navigate th
 ## Setup
 - [[Tools Installation]]
 - [[What is Terminal?]]
-
-## Mini Articles
-- [[Why Understanding the Basics Still Matters]]
-- [[Examples of Delegating tasks blindly]]
