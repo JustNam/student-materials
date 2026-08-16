@@ -8,8 +8,7 @@ title: Lesson 5 - BE Fundamentals
 The 3-layer model, CDM/ORD vs database, keys and data types, SQL structure, SQL jobs-to-be-done
 
 ### Homework
-- [[Homework 5.1 - Database Design]]
-- [[Homework 5.2 - API Endpoints]]
+- [[Homework 5 - Database Design]]
 
 ### Self-learn Topics
 _none_

@@ -4,10 +4,11 @@
 
 1. Install Supabase CLI: `brew install supabase/tap/supabase`
 2. Install Docker Desktop and make sure it is running: https://www.docker.com/products/docker-desktop/
-3. Clone the homework repo (via Claude Code): https://github.com/JustNam/lesson2-homework
+3. Create a local directory/folder to store the project
 4. Link to the Supabase project: `supabase link`
-5. Serve functions locally: `supabase functions serve`
-6. The functions will be available at `http://localhost:54321/functions/v1/<function-name>`
+5. Create a new function: `supabase functions new <resource-name>` (The resource is associated with the endpoint)
+6. Serve functions locally: `supabase functions serve`
+7. The functions will be available at `http://localhost:54321/functions/v1/<function-name>`
 
 ## AI Usage Warning
 
@@ -37,10 +38,7 @@ You will be given two simplified CLRA Edge Functions. For each one, identify:
 
 ## Part 2: Design Your Own Endpoint
 
-Given a user story: *"A user wants to mark an interview as completed from the Interview List page"* — write out in plain text (no code):
-
-The scaffolding (CORS headers, auth token handling) is already provided. Focus on the logic:
-
+Given a user story: *"A user wants to mark an interview as completed from the Interview List page"*. First, design the endpoint with guiding logic below, then implement them:
 1. The endpoint path and method
 2. What the request body or URL params contain
 3. What the server needs to do, step by step
@@ -48,8 +46,7 @@ The scaffolding (CORS headers, auth token handling) is already provided. Focus o
 
 ## Part 3: Design a Read Endpoint with Nested Data
 
-Given a user story: *"A user opens a research plan and sees all its interviews, each with their research questions"* — design the endpoint in plain text:
-
+Given a user story: *"A user opens a research plan and sees all its interviews, each with their research questions"*. First, design the endpoint with guiding logic below, then implement them.
 1. The endpoint path and method
 2. What the request expects
 3. What the server needs to fetch and how the response is structured
