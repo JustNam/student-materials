@@ -7,7 +7,7 @@ Then, you could install these tools. If you have trouble installing tools via Te
 - Claude Code:
     - macOS/Linux: `curl -fsSL https://claude.ai/install.sh | bash`
     - Windows (PowerShell): `irm https://claude.ai/install.ps1 | iex`
-- VScode: https://code.visualstudio.com/download
+- VScode: https://code.visualstudio.com/download - see [[VS Code]] for required setup and basics
 - NPM: `npm install -g npm`
 - Chrome: https://www.google.com/chrome/
 - Supabase CLI:
