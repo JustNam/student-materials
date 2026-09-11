@@ -9,3 +9,4 @@ The 3-layer model, CDM/ORD vs database, keys and data types, SQL structure, SQL 
 - Homework: [[Homework 5 - Database Design]]
 - Self-learn Topics: none - [Self-study Experience](https://github.com/JustNam/pi-self-study)
 - References: Slide URL: [Lesson 5 - BE Fundamentals](https://docs.google.com/presentation/d/1Kvk6qw-__JwQ717fBPBZaUNWcVmdZ9ryX1WvqOqL048/edit)
+- Video: [Lesson 5 Recording](https://youtu.be/-xK3Gi88Edg)
