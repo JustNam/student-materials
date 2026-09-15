@@ -24,7 +24,7 @@ If you skip the thinking and let AI do the design, the homework won't teach you 
 
 CLRA is a research assistant that helps users plan and conduct interviews. A user starts by creating a **research plan** (e.g. "B2B SaaS User Research"). Under that plan, they schedule one or more **interviews**, each with a specific interviewee and date.
 
-For each interview, the user first sets **research questions** (the goals of that interview, e.g. "Understand pricing sensitivity"). Under each research question, they prepare the actual **interview questions** they'll ask out loud (e.g. "How much do you currently pay for X?"). This separates *what we want to learn* from *what we literally say to the person*.
+For each research plan, the user first sets **research questions** (the goals of that plan, e.g. "Understand pricing sensitivity"). Under each research question, they prepare the actual **interview questions** they'll ask out loud (e.g. "How much do you currently pay for X?"). This separates *what we want to learn* from *what we literally say to the person*.
 
 Separately, each interview also has its own **content**: raw notes or transcript captured during the session, independent of the question structure.
 
